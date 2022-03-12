@@ -1,0 +1,39 @@
+.calculateInfo {
+  display: flex;
+  margin-top: 60px;
+  .item {
+    width: 50%;
+  }
+}
+
+.additionalInfo {
+  display: flex;
+  margin-top: 50px;
+  .result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 50%;
+    p,
+    h3 {
+      margin: 0;
+    }
+    h3 {
+      font-size: 40px;
+    }
+    p {
+      font-size: 30px;
+    }
+  }
+
+  .table {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    img {
+      width: 100%;
+    }
+  }
+}

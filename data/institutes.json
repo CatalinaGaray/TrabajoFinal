@@ -1,0 +1,47 @@
+{
+  "es": {
+    "iboca": {
+      "name": "Indice Bogotano de Calidad de Aire - IBOCA",
+      "description": "Indicador multipropósito adimensional, calculado a partir de las concentraciones de contaminantes atmosféricos en un momento y lugar de la ciudad, que comunica simultáneamente y de forma sencilla, oportuna y clara el riesgo ambiental por contaminación atmosférica, el estado de la calidad del aire de Bogotá, las afectaciones y recomendaciones en salud y las medidas voluntarias para que la ciudadanía contribuya a mantener o mejorar la calidad del aire de la ciudad. Este índice es el eje transversal del Sistema de Alertas Ambientales de Bogotá en su componente aire - SATAB Aire. ",
+      "image": "iboca.png"
+    },
+    "forecast": {
+      "name": "Pronóstico de calidad del aire",
+      "description": "A través del Sistema Integrado de Modelación de Calidad de Aire de Bogotá (SIMCAB) la Secretaría Distrital de Ambiente puede estimar el destino y distribución de concentración de los contaminantes atmosféricos inventariados en la ciudad, complementando la tarea de monitoreo desarrollada por la Red de Monitoreo de Calidad del Aire de Bogotá (RMCAB). Esta herramienta permite estimar el estado de la calidad de aire para las siguientes 48 horas, teniendo en cuenta el pronóstico de variables meteorológicas y comportamientos típicos de emisiones en la ciudad para los días pronosticados.",
+      "image": "forecast.png"
+    },
+    "rmcab": {
+      "name": "Red de Monitoreo de Calidad del Aire de Bogotá - RMCAB",
+      "description": "La Red de Monitoreo de Calidad del Aire de Bogotá - RMCAB realiza el monitoreo de los contaminantes criterio PM10, PM2.5, O3, SO2, NO2 y CO, y las variables meteorológicas precipitación, temperatura, presión atmosférica, radiación solar, velocidad y dirección del viento. La RMCAB está conformada por 20 estaciones que cuentan con sensores y analizadores automáticos, que reportan datos actualizados cada hora sobre la calidad del aire en la ciudad. Cada estación se encuentra ubicada en un lugar específico de la ciudad, atendiendo a los requerimientos definidos en la normatividad vigente (distancia a fuentes de emisión, posibles interferencias, restricciones de funcionamiento), y por lo tanto cada una registra las condiciones de una zona de influencia en la atmósfera.",
+      "image": "rmcab.png"
+    },
+    "inventory": {
+      "name": "Inventario de emisiones  de Bogotá",
+      "description": "Contaminantes Atmosféricos: Documento para visualización o descarga y que corresponde a la actualización del inventario de emisiones de contaminantes atmosféricos en su versión más reciente, donde se estiman las emisiones generadas por las principales fuentes de emisión identificadas en la ciudad de Bogotá, entre las cuales se encuentran las fuentes móviles en carretera (vehículos), fuentes fijas industriales, fuentes generadoras de material particulado resuspendido, entre otro tipo de fuentes.",
+      "image": "inventory.png"
+    }
+  },
+
+  "en": {
+    "iboca": {
+      "name": "Bogota Air Quality Index - IBOCA",
+      "description": "Dimensionless multipurpose indicator, calculated from the concentrations of air pollutants at a given time and place in the city, which communicates simultaneously and in a simple, timely and clear manner the environmental risk due to air pollution, the state of air quality in Bogotá, health effects and recommendations and voluntary measures for citizens to contribute to maintaining or improving air quality in the city. This index is the transversal axis of the Bogota Environmental Alert System in its air component - SATAB Air.",
+      "image": "iboca.png"
+    },
+    "forecast": {
+      "name": "Air quality forecast",
+      "description": "Through the Integrated Air Quality Modeling System of Bogotá (SIMCAB), the District Department of the Environment can estimate the destination and concentration distribution of atmospheric pollutants inventoried in the city, complementing the monitoring task carried out by the Monitoring Network of Bogota Air Quality (RMCAB). This tool allows estimating the state of air quality for the next 48 hours, taking into account the forecast of meteorological variables and typical behavior of emissions in the city for the forecast days.",
+      "image": "forecast.png"
+    },
+    "rmcab": {
+      "name": "Bogotá Air Quality Monitoring Network - RMCAB",
+      "description": "The Bogotá Air Quality Monitoring Network - RMCAB monitors criteria pollutants PM10, PM2.5, O3, SO2, NO2 and CO, and the meteorological variables precipitation, temperature, atmospheric pressure, solar radiation, speed and direction of the wind. The RMCAB is made up of 20 stations that have sensors and automatic analyzers, which report updated data every hour on the quality of the air in the city. Each station is located in a specific place in the city, meeting the requirements defined in current regulations (distance from emission sources, possible interference, operating restrictions), and therefore each one records the conditions of a zone of influence on the atmosphere.",
+      "image": "rmcab.png"
+    },
+    "inventory": {
+      "name": "Bogotá Emissions Inventory",
+      "description": "Atmospheric Pollutants: Document for viewing or downloading that corresponds to the most recent version of the inventory of air pollutant emissions, where the emissions generated by the main emission sources identified in the city of Bogotá are estimated, among which are There are mobile sources on the road (vehicles), fixed industrial sources, sources that generate resuspended particulate matter, among other types of sources.",
+      "image": "inventory.png"
+    }
+  }
+}

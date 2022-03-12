@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  padding: 30px 50px;
+  border-radius: 20px;
+  height: 85%;
+  /* From https://css.glass */
+  /* From https://css.glass */
+  /* From https://css.glass */
+  background: #33af63;
+
+  .left {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    width: 50%;
+    color: #fff;
+    font-size: 1.2em;
+    h2 {
+      font-weight: bolder;
+      color: #fff;
+    }
+  }
+  .right {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
